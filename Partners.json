@@ -1,0 +1,82 @@
+[
+  {
+    "name": "UniUB",
+    "link": "https://jobi.billigerhost.com",
+    "image": "/home/icons/uniub.png",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "Camouflague",
+    "link": "https://flage.site",
+    "image": "https://flage.site/favicon.gif",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "Lunar",
+    "link": "https://lunmeow.bearcat.rocks/",
+    "image": "/home/icons/lunar.webp",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "US4",
+    "link": "https://us4-ubg.github.io/",
+    "image": "https://voucan-us4.github.io/storage/images/logo.png",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "MexiMath",
+    "link": "https://mexismath.firebaseapp.com/",
+    "image": "/home/icons/meximath.png",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "Frogie's Arcade",
+    "link": "https://frogiesarca.de/",
+    "image": "https://frogiesarca.de/images/logo.gif",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "Szvy Central",
+    "link": "https://szvy.lol",
+    "image": "https://i.ibb.co/GM0TFjM/szvylogo.png",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "The Gaming Escape",
+    "link": "https://gr4ys0n.github.io",
+    "image": "https://gr4ys0n.github.io/src/images/favicon.jpg",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "PeteZah Games",
+    "link": "https://petezahgames.com/",
+    "image": "https://petezahgames.com/storage/images/logo-png-removebg-preview.png",
+    "categories": [
+      "all"
+    ]
+  },
+  {
+    "name": "If you wanna be on here,<br>DM me on Discord at<br>@ajhmath.org",
+    "link": "https://about.ajhmath.org",
+    "image": "/home/icons/pfp_real.png",
+    "categories": [
+      "all"
+    ]
+  }
+]
