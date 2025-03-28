@@ -1,0 +1,2 @@
+const iframe = document.getElementById('myifram');
+iframe.src = "https://gr4ys0n.github.io";  // Set the iframe source to the desired URL
